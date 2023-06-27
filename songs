@@ -1,0 +1,8 @@
+ beatpack = [
+    {
+      name: "KEROSENE",
+      artist: "Crystal Castles",
+      src: "https://g.top4top.io/m_2734lh1331.mp3",
+      thumbnail: "url(https://j.top4top.io/p_2734t0swz1.png)"
+    },
+    {
